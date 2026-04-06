@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-plugins",
+  "version": "1.0.0",
+  "description": "Keith's curated Claude Code plugins",
+  "owner": {
+    "name": "Keith Hung"
+  },
+  "plugins": [
+    {
+      "name": "read-email",
+      "description": "Parse .eml/.msg email files with token-optimized content extraction and attachment handling",
+      "version": "0.1.0",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/keith-hung/claude-read-email.git",
+        "sha": "4915817fa8edd349c19d06036dd84c2f465ca9dd"
+      }
+    }
+  ]
+}
