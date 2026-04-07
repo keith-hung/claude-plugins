@@ -5,7 +5,7 @@ A curated Claude Code plugin marketplace.
 ## Installation
 
 ```bash
-/plugin marketplace add claude-plugins keith-hung/claude-plugins
+/plugin marketplace add keith-hung/claude-plugins
 ```
 
 ## Available Plugins
@@ -17,7 +17,7 @@ A curated Claude Code plugin marketplace.
 ### Install a plugin
 
 ```bash
-/plugin install read-email@claude-plugins
+/plugin install read-email@keith-agent-plugins
 ```
 
 ## License
